@@ -4,9 +4,9 @@
 ## 目录
 
 - 综合 [建议](https://github.com/jarvisniu/dawei-ref-cards/issues/1)
-- 《JavaScript 参考卡》2025版 - [电子版](https://github.com/jarvisniu/blob/main/dawei-ref-cards/电子版/JavaScript.参考卡.2025版.webp) | [反馈](https://github.com/jarvisniu/dawei-ref-cards/issues/2)
-- 《HTML 参考卡》2025版 - [电子版](https://github.com/jarvisniu/blob/main/dawei-ref-cards/电子版/HTML.参考卡.2025版.webp) | [反馈](https://github.com/jarvisniu/dawei-ref-cards/issues/3)
-- 《Python 参考卡》2025版 - [电子版](https://github.com/jarvisniu/blob/main/dawei-ref-cards/电子版/Python.参考卡.2025版.webp) | [反馈](https://github.com/jarvisniu/dawei-ref-cards/issues/4)
+- 《JavaScript 参考卡》2025版 - [电子版](https://github.com/jarvisniu/dawei-ref-cards/blob/main/电子版/JavaScript.参考卡.2025版.webp) | [反馈](https://github.com/jarvisniu/dawei-ref-cards/issues/2)
+- 《HTML 参考卡》2025版 - [电子版](https://github.com/jarvisniu/dawei-ref-cards/blob/main/电子版/HTML.参考卡.2025版.webp) | [反馈](https://github.com/jarvisniu/dawei-ref-cards/issues/3)
+- 《Python 参考卡》2025版 - [电子版](https://github.com/jarvisniu/dawei-ref-cards/blob/main/电子版/Python.参考卡.2025版.webp) | [反馈](https://github.com/jarvisniu/dawei-ref-cards/issues/4)
 
 ## License
 
