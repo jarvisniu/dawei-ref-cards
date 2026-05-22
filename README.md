@@ -1,10 +1,10 @@
-<center>
-<div style="font-size: 2em;">大维参考卡</div>
-<a href="https://dawei.plus/" target="_blank">官网</a>
-| <a href="https://www.bilibili.com/video/BV1apPszEEqQ/" target="_blank">介绍视频</a>
-| <a href="https://shop169496075.taobao.com/" target="_blank">淘宝店铺</a>
-<div>《大维参考卡》系列电子版发布和反馈平台</div>
-</center>
+<div >
+  <h1>大维参考卡</h1>
+  <a href="https://dawei.plus/" target="_blank">官网</a>
+  | <a href="https://www.bilibili.com/video/BV1apPszEEqQ/" target="_blank">介绍视频</a>
+  | <a href="https://shop169496075.taobao.com/" target="_blank">淘宝店铺</a>
+  <div>《大维参考卡》系列电子版发布和反馈平台</div>
+</div>
 
 ## 目录
 
