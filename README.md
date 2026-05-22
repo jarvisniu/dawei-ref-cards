@@ -1,12 +1,36 @@
-# dawei-ref-cards
-《大维参考卡》系列电子版发布和反馈平台
+<center>
+<div style="font-size: 2em;">大维参考卡</div>
+<a href="https://dawei.plus/" target="_blank">官网</a>
+| <a href="https://www.bilibili.com/video/BV1apPszEEqQ/" target="_blank">介绍视频</a>
+| <a href="https://shop169496075.taobao.com/" target="_blank">淘宝店铺</a>
+<div>《大维参考卡》系列电子版发布和反馈平台</div>
+</center>
 
 ## 目录
 
-- 综合 [建议](https://github.com/jarvisniu/dawei-ref-cards/issues/1)
-- 《JavaScript 参考卡》2025版 - [电子版](https://github.com/jarvisniu/dawei-ref-cards/blob/main/电子版/JavaScript.参考卡.2025版.webp) | [反馈](https://github.com/jarvisniu/dawei-ref-cards/issues/2)
-- 《HTML 参考卡》2025版 - [电子版](https://github.com/jarvisniu/dawei-ref-cards/blob/main/电子版/HTML.参考卡.2025版.webp) | [反馈](https://github.com/jarvisniu/dawei-ref-cards/issues/3)
-- 《Python 参考卡》2025版 - [电子版](https://github.com/jarvisniu/dawei-ref-cards/blob/main/电子版/Python.参考卡.2025版.webp) | [反馈](https://github.com/jarvisniu/dawei-ref-cards/issues/4)
+- 综合 [建议][综合 Issue]
+- 001《JavaScript 参考卡》2025版 - [电子版][JavaScript Card] | [反馈][JavaScript Issue]
+- 002《HTML 参考卡》2025版 - [电子版][HTML Card] | [反馈][HTML Issue]
+- 003《Python 参考卡》2025版 - [电子版][Python Card] | [反馈][Python Issue]
+- 004《Rust 参考卡》2026版 - [电子版][Rust Card] | [反馈][Rust Issue]
+- 005《Markdown 参考卡》2026版 - [电子版][Markdown Card] | [反馈][Markdown Issue]
+
+<!-- -->
+
+[JavaScript Card]: https://github.com/jarvisniu/dawei-ref-cards/blob/main/电子版/JavaScript.参考卡.2025版.webp
+[HTML Card]: https://github.com/jarvisniu/dawei-ref-cards/blob/main/电子版/HTML.参考卡.2025版.webp
+[Python Card]: https://github.com/jarvisniu/dawei-ref-cards/blob/main/电子版/Python.参考卡.2025版.webp
+[Rust Card]: https://github.com/jarvisniu/dawei-ref-cards/blob/main/电子版/Rust.参考卡.2026版.webp
+[Markdown Card]: https://github.com/jarvisniu/dawei-ref-cards/blob/main/电子版/Markdown.参考卡.2026版.webp
+
+<!-- -->
+
+[综合 Issue]: https://github.com/jarvisniu/dawei-ref-cards/issues/2
+[JavaScript Issue]: https://github.com/jarvisniu/dawei-ref-cards/issues/2
+[HTML Issue]: https://github.com/jarvisniu/dawei-ref-cards/issues/3
+[Python Issue]: https://github.com/jarvisniu/dawei-ref-cards/issues/4
+[Rust Issue]: https://github.com/jarvisniu/dawei-ref-cards/issues/5
+[Markdown Issue]: https://github.com/jarvisniu/dawei-ref-cards/issues/5
 
 ## License
 
