@@ -30,7 +30,7 @@
 [HTML Issue]: https://github.com/jarvisniu/dawei-ref-cards/issues/3
 [Python Issue]: https://github.com/jarvisniu/dawei-ref-cards/issues/4
 [Rust Issue]: https://github.com/jarvisniu/dawei-ref-cards/issues/5
-[Markdown Issue]: https://github.com/jarvisniu/dawei-ref-cards/issues/5
+[Markdown Issue]: https://github.com/jarvisniu/dawei-ref-cards/issues/6
 
 ## License
 
